@@ -1,6 +1,10 @@
 vraptor-shiro-test-project
 ==========================
 
+Usuário admin possui permissões add, edit, delete e read.   
+Qualquer outro nome de usuário deve funcionar, porém apenas com permissão read.  
+Senha para qualquer usuário (inclusive admin) é 123456  
+
 #####Testes feitos com Wildfly 8.0.0
 
 ###URIs para teste:
