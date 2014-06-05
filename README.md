@@ -1,8 +1,9 @@
 vraptor-shiro-test-project
 ==========================
 
+#####Testes feitos com Wildfly 8.0.0
 
-URIs para teste:
+###URIs para teste:
 
 / (index)    
 /login (login)    
